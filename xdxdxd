@@ -1047,7 +1047,7 @@ local SimplePath; do
     SimplePath = Path;
 end
 
-local Library = loadstring(game:HttpGet("https://lindseyhost.com/UI/LinoriaLib.lua"))();
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/aloneinmygrave0/Librarys/main/UiLibrary.lua"))();
 
 -- Constants:
 local LocalPlayer = Players.LocalPlayer;
